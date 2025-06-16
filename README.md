@@ -1,2 +1,2 @@
 # CPP06
-Exercice for the CCP06 project
+Exercice for the CPP06 project
